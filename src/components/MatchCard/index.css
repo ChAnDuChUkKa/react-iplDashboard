@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.match-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 300px;
+  background-color: #1e293b;
+  border: 3px solid #475569;
+  border-radius: 10px;
+  margin: 5px;
+}
+.image1 {
+  height: 150px;
+  width: 150px;
+}
